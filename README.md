@@ -1,2 +1,2 @@
-# riddyrayes.github-com
+# riddyrayes.github.com
 Personal Website
