@@ -2,9 +2,9 @@
 title: @riddyrayes
 ---
 
-# Welcome !
-
-@riddyrayes
+# Welcome to the personal site of @riddyrayes
 
 
-[Instagram](instagram.com/riddyrayes)
+
+
+[Instagram](https://www.instagram.com/riddyrayes/)
