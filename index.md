@@ -1,5 +1,5 @@
 ---
-title: @riddyrayes
+title: riddyrayes
 ---
 
 # Welcome to the personal site of @riddyrayes
