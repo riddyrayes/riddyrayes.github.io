@@ -1,8 +1,8 @@
 ---
-title: riddyrayes
+title: R²
 ---
 
-# Welcome to the personal site of @riddyrayes
+# Welcome to the personal site of R²
 
 
 
